@@ -14,9 +14,6 @@ body{
   width: 20%;
   height: auto;
 }
-.sidebar p{
-  text-transform: uppercase;
-}
 
 .card{
   box-sizing: border-box;
