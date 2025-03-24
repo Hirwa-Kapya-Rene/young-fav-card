@@ -25,6 +25,9 @@ body{
   width: 20%;
   height: auto;
 }
+.link{
+  margin-top: 50px;
+}
 .text {
   margin-top: 200px;
   display: flex;
@@ -85,7 +88,6 @@ img{
 }
 .content{
   display: block;
-  margin-right: 100px;
 }
 .bonus{
   margin: 20px 0;
@@ -94,6 +96,10 @@ img{
   text-transform: uppercase;
   font-size: 3rem;
   font-weight: 600;
+}
+.content img{
+  cursor: pointer;
+  padding-right: 10px;
 }
 .mobile{
 }
